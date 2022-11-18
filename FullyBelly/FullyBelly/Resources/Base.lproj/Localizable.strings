@@ -1,0 +1,107 @@
+/* 
+  Localizable.strings
+  FullyBelly
+
+  Created by Lukasz Domaradzki on 18.02.2017.
+  Copyright © 2017 DMFB. All rights reserved.
+*/
+
+"acceptTermsPrompt" = "You have to accept our terms and conditions before proceeding further.";
+"addedToFavorites" = "The restaurant has been added to the favourites.";
+"addPermissionsAndTryAgain" = "Please add required permissions and try again.";
+"address" = "Address";
+"addressNull" = "Please enter a valid address.";
+"addressNullExplanation" = "If you did, then please double check if you have the the internet enabled.";
+"advancedSearchText" = "+ more";
+"anyDistance" = "Any distance";
+"apartmentNumber" = "Apartment no.";
+"app_name" = "FullyBelly";
+"availableButtonText" = "only available";
+"availableDishesText" = "Available dishes:";
+"availableText" = "available:";
+"buttonBuyText" = "buy";
+"cancelButtonText" = "Cancel";
+"buttonNextStep" = "next step";
+"canEatOnSite" = "Possibility to eat at the restaurant";
+"cheapestButtonText" = "the cheapest";
+"chooseAmount" = "choose amount";
+"city" = "City";
+"closestButtonText" = "the closest";
+"description" = "Description";
+"distance" = "Distance:";
+"emailAddress" = "email address";
+"emailInvalidValidation" = "Given email address is invalid.";
+"enterEmailAddress" = "please enter your email address";
+"favButtonText" = "the favourites";
+"fbLoginError" = "Error occured during Facebook login process";
+"from" = "from";
+"genericError" = "Something went wrong";
+"hideShowButtonHideText" = "hide";
+"hideShowButtonShowText" = "search";
+"houseNumber" = "House no.";
+"internet2" = "internet";
+"loadingOngoing" = "loading";
+"location" = "location";
+"location2" = "location";
+"locationDown" = "Please turn on your location.";
+"locationDownExplanation" = "In order for the FullyBelly application to work properly, you have to turn on your location. You can still find restaurants using the search bar, though we may not show you relevant results.";
+"logOut" = "Logout";
+"noAddressInfo" = "Given address could not be found.";
+"noLocationProviderAvailable" = "Failed to read location data.";
+"noOfferExplanation" = "It\'s possible it was already booked by someone else.";
+"noOfferInfo" = "Given offer could not be found.";
+"noRestaurantDetailsInfo" = "This restaurant could not be found at this time.";
+"noRestaurantsInfo" = "No restaurants could be found at this time.";
+"notificationAcceptText" = "Accept";
+"notificationDeclineText" = "Decline";
+"notificationScrollDownText" = "down";
+"offerDescription" = "Offer description";
+"orderBookingFailed" = "There was an error while processing your order.";
+"ordersDescription" = "Below there is a list of your current paid-for orders. They will disappear after the restaurant marks a given order as taken or after 24h have passed.";
+"ordersListDishesAmount" = "Dishes amount:";
+"ordersListPickup" = "Pickup time:";
+"ordersListNumber" = "Order number:";
+"ordersListNoOrders" = "Currently there are no orders";
+"paymentCancelled" = "If the system will manage to validate it successfully, you will receive an email message with the purchase order number (which will be required on pickup) on the email address given in the process of order making. You can also check your order status in the application.";
+"paymentMethodRequired" = "Please select payment method";
+"paymentOk" = "We will send you the purchase order number (which will be required on delivery) to the email address given in the process of order making after we receive your payment. You can also check your order status in the application.";
+"permissionsDenied" = "Some permissions were denied.";
+"permissionsExplanation" = "In order to use this application you need to grant access to";
+"payWithBankTransfer" = "Bank transfer";
+"payWithCreditCard" = "Credit card";
+"pickupTimeButtonText" = "pickup time";
+"pickupTimesText" = "pickup:";
+"pickupTimesTextLong" = "pickup time:";
+"providerUnavailable" = "In order to use this application you have to allow it to use the internet.";
+"providerUnavailableExplanation" = "FullyBelly is not able to read your location without one of those providers available.";
+"putRestaurantComment" = "Post a comment for this offer:";
+"removedFromFavorites" = "The restaurant has been removed from the favourites.";
+"restaurantBackgroundImage" = "offer background image";
+"restaurantLogo" = "offer logo";
+"termsOfUse" = "Terms and Conditions";
+"transactionAbandoned" = "You had left the transaction panel before we managed to validate your payment.";
+"transactionSuccess" = "Your transaction was finished successfully.";
+"transferTitle" = "Meal purchase";
+"tryAgainLater" = "Please try again later.";
+"tryDifferentCriteria" = "Please try again with different search criteria.";
+"save" = "save";
+"saveYourAccountSettings" = "save the account settings";
+"searchCommand" = "Search";
+"searchButtonText" = "search";
+"searcherBackgroundImage" = "searcher background image";
+"searcherDistance" = "distance";
+"searchTerm" = "Restaurant name or address";
+"searchTermShort" = "Search";
+"settingsSaved" = "User settings have been saved.";
+"settingsYourEmail" = "Your email";
+"simpleSearchText" = "- less";
+"street" = "Street";
+"until" = "until";
+"useAsGuest" = "Use as a guest";
+"yourSettings" = "Your account settings";
+"yourOrders" = "Your orders";
+"rememberChoice" = "remember my choice for future purchases";
+
+"tabOffers" = "Offers";
+"tabOrders" = "Orders";
+"tabSettings" = "Settings";

@@ -1,0 +1,23 @@
+{
+  "name": "P24",
+  "version": "2.0.7",
+  "authors": {
+    "LDO": "dragonikpl@gmail.com"
+  },
+  "source": { 
+      "path": "." 
+  },
+  "license": "P24",
+  "homepage": "https://www.przelewy24.pl/",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "summary": "Przelewy24 payment module.",
+  "source_files": "*.h",
+  "libraries": ["xml2", "z"],
+  "frameworks": ["Security", "UIKit", "Foundation"],
+  "vendored_libraries": "libP24.a",
+  "xcconfig": {
+  	"OTHER_LDFLAGS": "-lstdc++"
+  }
+}

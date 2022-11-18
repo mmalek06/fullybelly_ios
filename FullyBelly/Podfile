@@ -1,0 +1,18 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'FullyBelly' do
+  pod 'SwiftyUserDefaults', '~> 3.0.0'
+  pod 'Kingfisher', '~> 3.2.2'
+  pod 'Moya', '~> 8.0.0-beta.6'
+  pod 'Unbox', '~> 2.3.0'
+  pod 'Wrap', '~> 2.0.2'
+  pod 'P24', :path => 'P24'
+  pod 'BraintreeDropIn'
+  pod 'Fabric'
+  pod 'Crashlytics'
+  
+  target 'FullyBellyTests' do
+    inherit! :search_paths
+  end
+end

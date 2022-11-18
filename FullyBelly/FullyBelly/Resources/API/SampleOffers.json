@@ -1,0 +1,31 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+                {
+                "restaurant_id": 8,
+                "meal_id": 39,
+                "name": "Postrzelone Pierogi22",
+                "logo": "/media/8ac669ce-b252-47e6-9cdf-3b7d374633a5.png",
+                "distance": 20.06,
+                "currency": "PLN",
+                "available_dishes": 99,
+                "discount_price": "1.00",
+                "pickup_from": "20:00",
+                "pickup_to": "23:59"
+                },
+                {
+                "restaurant_id": 4,
+                "meal_id": 0,
+                "name": "Japan Sushi",
+                "logo": "/media/c47ff334-8f66-4956-a375-f9422db60e7e.png",
+                "distance": 20.13,
+                "currency": "PLN",
+                "available_dishes": 0,
+                "discount_price": "0.00",
+                "pickup_from": "",
+                "pickup_to": ""
+                }
+                ]
+}

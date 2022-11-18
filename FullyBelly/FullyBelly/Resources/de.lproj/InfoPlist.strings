@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  FullyBelly
+
+  Created by Lukasz Domaradzki on 06.03.2017.
+  Copyright © 2017 DMFB. All rights reserved.
+*/
+
+"NSLocationWhenInUseUsageDescription" = "Wir nutzen Ihren Standort, um Restaurants in der Nähe zu finden";
